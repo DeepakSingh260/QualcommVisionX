@@ -50,19 +50,6 @@ VigiCar is an innovative AI-driven system designed to detect and prevent vehicle
 - [ ] Write comprehensive documentation for system architecture and usage
 - [ ] Prepare performance reports and analysis
 - [ ] Create user manuals for different stakeholders
-
-## Contributing
-
-We welcome contributions to the VigiCar project! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit issues, feature requests, and pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Contact
-
-For any queries regarding the VigiCar project, please contact:
-
 [Your Name/Team Name]
 [Contact Email]
 
